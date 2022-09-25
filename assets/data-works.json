@@ -1,107 +1,88 @@
 {
-  "employment": [
-    {
-      "name": "Objectway",
-      "position": "Backend Software Engineer",
-      "location": "Milan, IT",
-      "image": {
-        "icon": "./assets/logos/objectway.png"
+   "itemMap":{
+      "2006A.R.C.E.S.":{
+         "name":"A.R.C.E.S.",
+         "position":"Vision System Software Developer",
+         "location":"Bologna, IT",
+         "image":{
+            "icon":"./assets/logos/arces.png"
+         },
+         "date":{
+            "start":"2006-12-01",
+            "end":"2007-03-30"
+         }
       },
-      "date": {
-        "start": "2018-09-01",
-        "end": "2022-11-01"
-      }
-    },
-    {
-      "name": "Sysdata",
-      "position": "Senior Consultant",
-      "location": "Bologna - Venice, IT",
-      "image": {
-        "icon": "./assets/logos/sysdata.png"
+      "2011Reply Spa (Power Reply) / ENI Spa":{
+         "name":"Reply Spa (Power Reply) / ENI Spa",
+         "position":"Consultant",
+         "location":"Milan, IT",
+         "image":{
+            "icon":"./assets/logos/reply.png"
+         },
+         "date":{
+            "start":"2011-11-01",
+            "end":"2014-01-30"
+         }
       },
-      "date": {
-        "start": "2016-10-01",
-        "end": "2018-08-30"
-      }
-    },
-    {
-      "name": "Engineering Ingegneria Informatica",
-      "position": "Backend Software Engineer",
-      "location": "Bologna, IT",
-      "image": {
-        "icon": "./assets/logos/eng.png"
+      "2007Omnia Group Srl / Coop Italia":{
+         "name":"Omnia Group Srl / Coop Italia",
+         "position":"Consultant",
+         "location":"Florence, IT",
+         "image":{
+            "icon":"./assets/logos/omniagroup.png"
+         },
+         "date":{
+            "start":"2007-04-01",
+            "end":"2011-10-30"
+         }
       },
-      "date": {
-        "start": "2015-03-01",
-        "end": "2016-09-30"
-      }
-    },
-    {
-      "name": "Avanade Inc. / Allianz Bank",
-      "position": "Senior Consultant",
-      "location": "Milan, IT",
-      "image": {
-        "icon": "./assets/logos/avanade.png"
+      "2015Engineering Ingegneria Informatica":{
+         "name":"Engineering Ingegneria Informatica",
+         "position":"Backend Software Engineer",
+         "location":"Bologna, IT",
+         "image":{
+            "icon":"./assets/logos/eng.png"
+         },
+         "date":{
+            "start":"2015-03-01",
+            "end":"2016-09-30"
+         }
       },
-      "date": {
-        "start": "2014-02-01",
-        "end": "2015-02-28"
-      }
-    },
-    {
-      "name": "Reply Spa (Power Reply) / ENI Spa",
-      "position": "Consultant",
-      "location": "Milan, IT",
-      "image": {
-        "icon": "./assets/logos/reply.png"
+      "2018Objectway":{
+         "name":"Objectway",
+         "position":"Backend Software Engineer",
+         "location":"Milan, IT",
+         "image":{
+            "icon":"./assets/logos/objectway.png"
+         },
+         "date":{
+            "start":"2018-09-01",
+            "end":"2022-10-01"
+         }
       },
-      "date": {
-        "start": "2011-11-01",
-        "end": "2014-01-30"
-      }
-    },
-    {
-      "name": "Omnia Group Srl / Coop Italia",
-      "position": "Consultant",
-      "location": "Florence, IT",
-      "image": {
-        "icon": "./assets/logos/omniagroup.png"
+      "2016Sysdata":{
+         "name":"Sysdata",
+         "position":"Senior Consultant",
+         "location":"Bologna - Venice, IT",
+         "image":{
+            "icon":"./assets/logos/sysdata.png"
+         },
+         "date":{
+            "start":"2016-10-01",
+            "end":"2018-08-30"
+         }
       },
-      "date": {
-        "start": "2007-04-01",
-        "end": "2011-10-30"
+      "2014Avanade Inc. / Allianz Bank":{
+         "name":"Avanade Inc. / Allianz Bank",
+         "position":"Senior Consultant",
+         "location":"Milan, IT",
+         "image":{
+            "icon":"./assets/logos/avanade.png"
+         },
+         "date":{
+            "start":"2014-02-01",
+            "end":"2015-02-28"
+         }
       }
-    },
-    {
-      "name": "A.R.C.E.S.",
-      "position": "Vision System Software Developer",
-      "location": "Bologna, IT",
-      "image": {
-        "icon": "./assets/logos/arces.png"
-      },
-      "date": {
-        "start": "2006-12-01",
-        "end": "2007-03-30"
-      }
-    }
-  ],
-  "projects": [
-    {
-      "status": true,
-      "title": "project title",
-      "mobile": true,
-      "image": {
-        "icon": "./assets/projects/projname/icon.png",
-        "screenshot": "./assets/projects/projname/screenshot.png"
-      },
-      "description": [
-        "Project description."
-      ],
-      "url": {
-        "web": "https://projectlink",
-        "android": "https://projectlink",
-        "ios": "https://projectlink"
-      }
-    }
-  ]
+   }
 }
