@@ -7,7 +7,7 @@ import * as dotenv from 'dotenv';
 import Redis from "ioredis";
 import RedisMock from 'ioredis-mock';
 
-dotenv.config({ path: '/app/nodejs/node-work-apis2/.env' })
+dotenv.config({ path: '/app/nodejs/node-work-apis/.env' })
 if(process.env != null) {	console.log("env properties initialized") }
 
 const app = express()

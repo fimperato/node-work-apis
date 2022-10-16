@@ -15,3 +15,9 @@ ifrancesco works API: nodejs API using express for works data
 Path API: "/allWorkItems"
 
 HTTP Method: GET
+
+ifrancesco works API: nodejs API using redis data storage
+
+Path API: "/allWorkItemsRedis"
+
+HTTP Method: GET
